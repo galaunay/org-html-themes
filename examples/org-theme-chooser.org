@@ -11,7 +11,7 @@
 
 Text can be *bold*, /italic/, or +strikethrough+.
 
-[[https://github.com/fniessen/org-html-themes/org/theme-chooser.htmltheme-chooser.txt][Link to another page.]]
+[[https://github.com/galaunay/org-html-themes/org/theme-chooser.htmltheme-chooser.txt][Link to another page.]]
 
 There should be whitespace between paragraphs.
 
